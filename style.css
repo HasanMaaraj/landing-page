@@ -102,5 +102,15 @@ button {
 
 .quote {
     background-color: #E5E7EB;
-    padding: 16px;
+    padding: 64px 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    width: 800px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    align-self: center;
 }
