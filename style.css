@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: sans-serif;
+    width: 100vh;
 }
 
 .header {
@@ -9,8 +10,10 @@ body {
     justify-content: space-between;
     align-items: center;
     background: #1f2937;
+    padding: 16px;
 }
 
 .logo {
     color: white;
+    font-weight: bold;
 }
