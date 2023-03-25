@@ -10,7 +10,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background: #1f2937;
-    padding: 16px;
+    padding: 32px;
     color: white;
 }
 
@@ -35,9 +35,11 @@ a {
 
 .intoduction {
     display: flex;
+    justify-content: center;
+    gap: 32px;
     background: #1f2937;
     color: white;
-    padding: 16px;
+    padding: 32px;
 }
 
 img {
