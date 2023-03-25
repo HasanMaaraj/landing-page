@@ -3,3 +3,9 @@ body {
     flex-direction: column;
     font-family: sans-serif;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: #1f2937;
+}
