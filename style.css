@@ -11,9 +11,18 @@ body {
     align-items: center;
     background: #1f2937;
     padding: 16px;
+    color: white;
 }
 
 .logo {
-    color: white;
     font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    font-size: 12px;
+    gap: 5px;
 }
