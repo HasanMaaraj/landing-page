@@ -132,7 +132,7 @@ button {
     width: 600px;
     background-color: #3882f6;
     margin: 64px;
-    padding: 8px;
+    padding: 8px 8px 8px 32px;
     border-radius: 10px;
     color: white;
 }
@@ -143,4 +143,9 @@ h3 {
 
 .modal p {
     margin-top: 0px;
+}
+
+.modal button {
+    border: 1px solid white;
+    margin: 32px;
 }
