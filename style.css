@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     font-family: sans-serif;
     width: 100%;
 }
@@ -46,6 +47,7 @@ img {
     height: 150px;
     width: 300px;
     margin-left: 8px;
+    flex-shrink: 0;
 }
 
 .main-text{
