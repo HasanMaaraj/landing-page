@@ -75,4 +75,9 @@ button {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    margin: 16px;
+}
+
+.cats{
+    display: flex;
 }
