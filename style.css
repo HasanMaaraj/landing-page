@@ -31,3 +31,9 @@ a {
     color: white;
     text-decoration: none;
 }
+
+.intoduction {
+    display: flex;
+    background: #1f2937;
+    color: white;
+}
