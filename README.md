@@ -1,4 +1,4 @@
-# odin-Landing-Page
+# Landing-Page
 
 In this project I will be applying my new learned skills in styling webpages
 using CSS to style the landing page of a website.
